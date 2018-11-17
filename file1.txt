@@ -1,1 +1,3 @@
 To jest pierszy plik
+A to jest jego druga linijka
+A to jest jego trzecia linijka
